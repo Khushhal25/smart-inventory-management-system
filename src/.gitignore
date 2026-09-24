@@ -1,0 +1,8 @@
+cd "/Users/raunak/khuProject/InventoryApp"
+cat > .gitignore << 'EOF'
+bin/
+inventory.db
+*.class
+receipt_*.txt
+.DS_Store
+EOF
