@@ -1,0 +1,9 @@
+*.class
+bin/
+
+inventory.db
+receipt_*.txt
+
+.vscode/
+
+.DS_Store
